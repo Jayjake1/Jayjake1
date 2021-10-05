@@ -1,4 +1,4 @@
-- <h2>👋 Hello</h2>, I’m @Jayaprakash
+- <h2>👋 Hello, I’m @Jayaprakash </h2>
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning from data 
 - 💞️ I’m looking to collaborate on Opensource projects
