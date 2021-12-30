@@ -1,7 +1,7 @@
 - <h2>👋 Hello, I’m Jayaprakash </h2>
 - 👀 I’m interested in Artificial Intelligence(GI), 
 - 🌱 I’m currently learning from data where I dwelve deeper using 
-->   **Analysis:** Python, 🤏🏼R, SQL, BigQuery, Tableau, Looker, Sheets, Datastudio 
+-    **Analysis:** Python, 🤏🏼R, SQL, BigQuery, Tableau, Looker, Sheets, Datastudio 
 ->   **ML base:** Pandas, Matplotlib, Seaborn, ScikitLearn, TF
 ->   **DL & NLP:** TF, NLTK, some OpenCV, 
 ->   **Clouds:** GCP (Analysis), ML&Ops(Azure)
