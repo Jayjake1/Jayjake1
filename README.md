@@ -18,7 +18,7 @@
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/windows/344/kaggle.png
-[3.2]: ![image](https://user-images.githubusercontent.com/28497479/147791905-13524d1f-ed87-4d72-90ce-3b3c53929575.png)
+[3.2]: https://user-images.githubusercontent.com/28497479/147791905-13524d1f-ed87-4d72-90ce-3b3c53929575.png
 [2.2]: https://img.icons8.com/external-kmg-design-flat-kmg-design/344/external-three-dots-user-interface-kmg-design-flat-kmg-design.png
 
 
