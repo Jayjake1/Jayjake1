@@ -27,6 +27,9 @@
 [1]: https://www.kaggle.com/mark18vi
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!---
 Jayjake1/Jayjake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
