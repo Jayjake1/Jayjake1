@@ -28,7 +28,11 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Jayjake1/Jayjake1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!---
 Jayjake1/Jayjake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
