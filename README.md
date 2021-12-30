@@ -19,7 +19,7 @@
 
 [1.2]: https://img.icons8.com/windows/344/kaggle.png
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.2]: https://icons8.com/icon/DuWL2nO11Eng/external-three-dots-user-interface-kmg-design-outline-color-kmg-design
+[2.2]: https://img.icons8.com/external-kmg-design-flat-kmg-design/344/external-three-dots-user-interface-kmg-design-flat-kmg-design.png
 
 
 <!-- Links to your social media accounts -->
