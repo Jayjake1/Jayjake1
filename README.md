@@ -11,7 +11,20 @@
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
 
+<!-- Actual text -->
 
+ [![Kaggle][1.2]][1], | [![LinkedIn][3.2]][3] | [![WandB][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-1024.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.kaggle.com/mark18vi
+[2]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
+[3]: https://wandb.ai/jayaprakash1
 <!---
 Jayjake1/Jayjake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
