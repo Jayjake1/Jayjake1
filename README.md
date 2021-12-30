@@ -17,7 +17,7 @@
 
 <!-- Icons -->
 
-[1.2]: https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png
+[1.2]: https://img.icons8.com/windows/344/kaggle.png
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [2.2]: wandb-logo
 
