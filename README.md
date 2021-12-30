@@ -19,9 +19,8 @@
 
 [1.2]: https://img.icons8.com/windows/344/kaggle.png
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.2]: wandb-logo
+[2.2]: https://icons8.com/icon/DuWL2nO11Eng/external-three-dots-user-interface-kmg-design-outline-color-kmg-design
 
-<a class="wandb-logo" href="/"><div class="dots-column"><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot big-dot"></div><div class="dot big-dot"></div></div><div class="dots-column"><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div><div class="dot small-dot"></div><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div></div><div class="dots-column"><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div><div class="dot small-dot"></div><div class="dot small-dot"></div><div class="dot small-dot"></div><div class="dot big-dot"></div><div class="dot small-dot"></div></div></a>
 
 <!-- Links to your social media accounts -->
 
