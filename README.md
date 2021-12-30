@@ -11,14 +11,19 @@
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Jayjake1/Jayjake1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjake1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <!-- Actual text -->
 
- [![Kaggle][1.2]][1], | [![LinkedIn][3.2]][3], | [![WandB][2.2]][2]
+ [![Kaggle][1.2]][1] | [![LinkedIn][3.2]][3] | [![WandB][2.2]][2]
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/28497479/147792280-259eb575-d828-4dc1-b8a7-e5bd6cb87b67.png
-[3.2]: https://user-images.githubusercontent.com/28497479/147792397-d7c68f2a-9513-426f-ba35-d33cf97ee5a2.png
+[1.2]: https://user-images.githubusercontent.com/28497479/147792640-bce55fe0-ca6b-4a58-88fc-54f6d83a8840.png
+[3.2]: https://user-images.githubusercontent.com/28497479/147792572-662cb01c-026e-492b-be67-e7a5aefad19e.png
 [2.2]: https://user-images.githubusercontent.com/28497479/147792481-bf2bb8d4-4b75-4c08-a749-4686887a3ed8.png
 
 
@@ -28,11 +33,7 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Jayjake1/Jayjake1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjake1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 <!---
 Jayjake1/Jayjake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
