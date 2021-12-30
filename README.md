@@ -19,7 +19,7 @@
 
 [1.2]: https://user-images.githubusercontent.com/28497479/147792280-259eb575-d828-4dc1-b8a7-e5bd6cb87b67.png
 [3.2]: https://user-images.githubusercontent.com/28497479/147792397-d7c68f2a-9513-426f-ba35-d33cf97ee5a2.png
-[2.2]: https://img.icons8.com/external-kmg-design-flat-kmg-design/344/external-three-dots-user-interface-kmg-design-flat-kmg-design.png
+[2.2]: https://user-images.githubusercontent.com/28497479/147792481-bf2bb8d4-4b75-4c08-a749-4686887a3ed8.png
 
 
 <!-- Links to your social media accounts -->
