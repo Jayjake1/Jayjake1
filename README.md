@@ -18,7 +18,7 @@
 <!-- Icons -->
 
 [1.2]: https://user-images.githubusercontent.com/28497479/147792280-259eb575-d828-4dc1-b8a7-e5bd6cb87b67.png
-[3.2]: https://user-images.githubusercontent.com/28497479/147792074-14e1db8e-5cd0-498d-b628-904fa1deea84.png
+[3.2]: https://user-images.githubusercontent.com/28497479/147792397-d7c68f2a-9513-426f-ba35-d33cf97ee5a2.png
 [2.2]: https://img.icons8.com/external-kmg-design-flat-kmg-design/344/external-three-dots-user-interface-kmg-design-flat-kmg-design.png
 
 
