@@ -10,6 +10,7 @@
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -18,7 +19,7 @@
 </a>
 <!-- Actual text -->
 
- [![Kaggle][1.2]][1] | [![LinkedIn][3.2]][3] | [![WandB][2.2]][2] | ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)
+ [![Kaggle][1.2]][1] | [![LinkedIn][3.2]][3] | [![WandB][2.2]][2] | 
 
 <!-- Icons -->
 
