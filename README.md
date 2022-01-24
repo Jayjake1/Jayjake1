@@ -1,3 +1,5 @@
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)
+
 - <h2>👋 Hello, I’m Jayaprakash </h2>
 - 👀 I’m interested in Artificial Intelligence(GI), 
 - 🌱 I’m currently learning from data with data 
@@ -10,7 +12,7 @@
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)
+
 
 ## &#x1f4c8; GitHub Stats
 
