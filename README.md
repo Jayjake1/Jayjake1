@@ -1,7 +1,7 @@
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)
 
 - <h2>👋 Hello, I’m Jayaprakash </h2>
-- 👀 I’m interested in Artificial Intelligence(GI), 
+- 👀 I’m interested in Artificial Intelligence(AGI), 
 - 🌱 I’m currently learning from data with data 
 - > **Analysis:** Python, 🤏🏼R, SQL, BigQuery, Tableau, Looker, Sheets, Datastudio 
 - > **ML base:** Pandas, Matplotlib, Seaborn, ScikitLearn, TF
