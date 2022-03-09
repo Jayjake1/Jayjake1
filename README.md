@@ -8,7 +8,7 @@
 - > **DL & NLP:** TF, NLTK, some OpenCV, 
 - > **Clouds:** GCP (Analysis), ML&Ops(Azure)
 - > **Tools:** Jupyter, VS code, 🤏🏼Anaconda, 🤏🏼Matlab
-- [will be more next time you see this page, so try checking once a week for knowing what am upto 🤗]
+- [will be more next time you see this page, so feel-free to check once in a while, for knowing what am upto 🤗]
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
