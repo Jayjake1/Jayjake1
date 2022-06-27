@@ -41,9 +41,7 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
-#####
-<a href="https://www.linkedin.com/in/jayaprakash-k-17477618b/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jayaprakash-kunduru?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <a href="https://www.github.com/jayaprakash-kunduru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@DataMama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jayaprakash-k-17477618b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.kaggle.com/mark18vi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="32" height="32" /></a></p>
 
 
 ➡️ Thank you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
