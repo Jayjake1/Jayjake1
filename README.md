@@ -9,7 +9,6 @@
 - > **Clouds:** GCP (Analysis), AWS
 - > **Tools:** Jupyter, VS code,Pycharm Anaconda, Docker, Airflow, FastAPI, Flask, Git
 - > **MLOps:** TFX
-- [will be more next time you see this page, so feel-free to check once in a while, for knowing what am upto 🤗]
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
 
@@ -42,7 +41,7 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
-
+ThanK you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
 
 <!---
 jayaprakash-kunduru/jayaprakash-kunduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
