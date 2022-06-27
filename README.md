@@ -18,6 +18,7 @@
 
 <a href="https://github.com/jayaprakash-kunduru/jayaprakash-kunduru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-kunduru&hide=java,html,tex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&langs_count=3" /></a>
+  
 
 <a href="http://www.github.com/jayaprakash-kunduru"><img src="https://github-readme-stats.vercel.app/api?username=jayaprakash-kunduru&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jayaprakash's GitHub stats" /></a>
 
@@ -40,7 +41,7 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
-ThanK you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
+➡️ Thank you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
 
 <!---
 jayaprakash-kunduru/jayaprakash-kunduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
