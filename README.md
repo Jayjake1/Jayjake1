@@ -1,4 +1,4 @@
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi) | ![](https://komarev.com/ghpvc/?username=jayaprakash-kunduru&style=flat-square)
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)  ![](https://komarev.com/ghpvc/?username=jayaprakash-kunduru&color=lightblue&style=flat-square)
 
 - <h2>👋 Hello, I’m Jayaprakash </h2>
 - 👀 I’m interested in Artificial Intelligence(AGI), 
@@ -17,7 +17,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jayjake1/Jayjake1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjake1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-kunduru&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <!-- Actual text -->
 
