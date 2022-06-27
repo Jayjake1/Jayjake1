@@ -1,4 +1,4 @@
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)  ![](https://komarev.com/ghpvc/?username=jayaprakash-kunduru&color=lightblue&style=flat-square)
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mark18vi)  ![](https://komarev.com/ghpvc/?username=jayaprakash-kunduru&color=brightgreen&style=flat)
 
 - <h2>👋 Hello, I’m Jayaprakash </h2>
 - 👀 I’m interested in Artificial Intelligence(AGI), 
