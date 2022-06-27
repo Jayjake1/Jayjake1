@@ -7,8 +7,8 @@
 - > **ML base:** Pandas, Matplotlib, Seaborn, ScikitLearn, Numpy 
 - > **DL & NLP:** TF, NLTK, OpenCV, BERT, T5, Hugging Face, Keras
 - > **Clouds:** GCP (Analysis), AWS
-- > **Tools:** Jupyter, VS code, Anaconda, Docker, Airflow, FastAPI, Flask, Git
-- > MLops
+- > **Tools:** Jupyter, VS code,Pycharm Anaconda, Docker, Airflow, FastAPI, Flask, Git
+- > **MLOps:** TFX
 - [will be more next time you see this page, so feel-free to check once in a while, for knowing what am upto 🤗]
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me .. jayaprakash.kunduru1@gmail.com
@@ -45,6 +45,6 @@
 
 
 <!---
-Jayjake1/Jayjake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jayaprakash-kunduru/jayaprakash-kunduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
