@@ -41,6 +41,11 @@
 [3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
 [2]: https://wandb.ai/jayaprakash1
 
+#####
+<a href="https://www.linkedin.com/in/jayaprakash-k-17477618b/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jayaprakash-kunduru?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 ➡️ Thank you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
 
 <!---
