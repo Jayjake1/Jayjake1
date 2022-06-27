@@ -26,22 +26,7 @@
 
 <!-- Actual text -->
 
- [![Kaggle][1.2]][1] | [![LinkedIn][3.2]][3] | [![WandB][2.2]][2] | 
-
-<!-- Icons -->
-
-[1.2]: https://user-images.githubusercontent.com/28497479/147792640-bce55fe0-ca6b-4a58-88fc-54f6d83a8840.png
-[3.2]: https://user-images.githubusercontent.com/28497479/147792572-662cb01c-026e-492b-be67-e7a5aefad19e.png
-[2.2]: https://user-images.githubusercontent.com/28497479/147792481-bf2bb8d4-4b75-4c08-a749-4686887a3ed8.png
-
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.kaggle.com/mark18vi
-[3]: https://www.linkedin.com/in/jayaprakash-k-17477618b/
-[2]: https://wandb.ai/jayaprakash1
-
-<p align="center"> <a href="https://wandb.ai/jayaprakash1" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/28497479/147792481-bf2bb8d4-4b75-4c08-a749-4686887a3ed8.png" width="32" height="32" /></a> | <a href="https://hashnode.com/@DataMama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jayaprakash-k-17477618b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.kaggle.com/mark18vi" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/28497479/147792640-bce55fe0-ca6b-4a58-88fc-54f6d83a8840.png" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://wandb.ai/jayaprakash1" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/28497479/147792481-bf2bb8d4-4b75-4c08-a749-4686887a3ed8.png" width="32" height="32" /></a>  <a href="https://hashnode.com/@DataMama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jayaprakash-k-17477618b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.kaggle.com/mark18vi" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/28497479/147792640-bce55fe0-ca6b-4a58-88fc-54f6d83a8840.png" width="32" height="32" /></a></p>
 
 
 ➡️ Thank you for visiting, Feel-free to check once in a while, to know what am upto 🤗👋🏼
